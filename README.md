@@ -8,3 +8,7 @@
 ## Lecture 03
 
 * [Deep Learning for Understanding Faces: Machines May Be Just as Good, or Better, than Humans](03/face.md)
+
+## Lecture 05
+
+* [Wang et al. Learning to Hash for Indexing Big DataVA Survey. Proceedings of the IEEE, 2016.](05/hashing.pdf)
