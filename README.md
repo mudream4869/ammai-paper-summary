@@ -12,3 +12,7 @@
 ## Lecture 05
 
 * [Wang et al. Learning to Hash for Indexing Big DataVA Survey. Proceedings of the IEEE, 2016.](05/hashing.pdf)
+
+## Lecture 08
+
+* [Graph Embedding and Extensions: A General Framework for Dimensionality Reduction](08/dim-reduce.pdf)
