@@ -19,4 +19,4 @@
 
 ## Lecture 10
 
-* [Scalable Face Image Retrieval Using Attribute-Enhanced Sparse Codewords](08/attr.pdf)
+* [Scalable Face Image Retrieval Using Attribute-Enhanced Sparse Codewords](/attr.pdf)
