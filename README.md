@@ -16,3 +16,7 @@
 ## Lecture 08
 
 * [Graph Embedding and Extensions: A General Framework for Dimensionality Reduction](08/dim-reduce.pdf)
+
+## Lecture 10
+
+* [Scalable Face Image Retrieval Using Attribute-Enhanced Sparse Codewords](08/attr.pdf)
