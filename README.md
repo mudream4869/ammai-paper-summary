@@ -20,3 +20,7 @@
 ## Lecture 10
 
 * [Scalable Face Image Retrieval Using Attribute-Enhanced Sparse Codewords](10/attr.pdf)
+
+## Lecture 11
+
+* [Discovering Discrete Latent Topics with Neural Variational Inference](11/latent.pdf)
