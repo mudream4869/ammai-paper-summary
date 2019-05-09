@@ -24,3 +24,7 @@
 ## Lecture 11
 
 * [Discovering Discrete Latent Topics with Neural Variational Inference](11/latent.pdf)
+
+## Lecture 12
+
+* [DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures](12/dpp.md)
