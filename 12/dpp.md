@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Finding Pareto-optimal model structure over error and time.
+Searching Pareto-optimal model structure over error and time.
 
 ### Pareto Optimal
 
