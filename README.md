@@ -28,3 +28,7 @@
 ## Lecture 12
 
 * [DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures](12/dpp.md)
+
+## Lecture 13
+
+* [Bidirectional Attention Flow for Machine Comprehension](13/qa.md)
