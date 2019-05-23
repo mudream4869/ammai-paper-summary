@@ -32,3 +32,8 @@
 ## Lecture 13
 
 * [Bidirectional Attention Flow for Machine Comprehension](13/qa.md)
+
+## Lecture 14
+
+* [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](14/mobilenet.pdf)
+* [Model Compression and Acceleration for Deep Neural Networks: The Principles, Progress, and Challenges](14/model-compression.pdf)
