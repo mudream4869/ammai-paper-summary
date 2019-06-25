@@ -37,3 +37,7 @@
 
 * [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](14/mobilenet.pdf)
 * [Model Compression and Acceleration for Deep Neural Networks: The Principles, Progress, and Challenges](14/model-compression.pdf)
+
+## Lecture 16
+
+* [A Closer Look at Few-shot Classification](16/few-shot.md)
